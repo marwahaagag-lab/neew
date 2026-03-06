@@ -137,8 +137,17 @@ nav{
     font-size: xx-small;
     color: white;
 }
-}
+header nav ul{
+  display: flex;
+  list-style: none;
+  gap: 15px;
+  margin-left: -50%;
 
+}
+img{
+  max-width: 100%;
+  height: auto;
+}
 
 @media screen and (max-width: 600px) {
     nav ul {
