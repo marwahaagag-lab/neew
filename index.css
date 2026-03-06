@@ -113,11 +113,11 @@ h3{
   font-weight: bold;
   font-style: italic;
   font-family: serif;
-  margin-top: 8px;
+  margin-top: -14px;
   margin-left: 1px;
   color: white;
 }
-}
+
 /* Navigation list styling */
 .main-header nav ul {
   display: flex;
