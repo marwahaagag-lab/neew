@@ -23,6 +23,9 @@ header {
     color:white;
 height: 82px;
     text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+display: flex;
+align-items: center;
+
     border: 2px solid ;
 }
 .logo{
@@ -113,10 +116,11 @@ h3{
   font-weight: bold;
   font-style: italic;
   font-family: serif;
-  margin-top: -14px;
-  margin-left: 1px;
+  margin-top: -28px;
+  margin-left: -20px;
   color: white;
 }
+
 
 /* Navigation list styling */
 .main-header nav ul {
@@ -127,11 +131,12 @@ h3{
   padding: 0;
   color: white;
 }
-nav{    
-  margin-left: 221PX;
-  margin-top: -34px;
-  font-size: xx-small;
-  color: white;
+nav{   
+  margin-left: 1055PX;
+    margin-top: -19px;
+    font-size: xx-small;
+    color: white;
+}
 }
 
 
@@ -158,7 +163,7 @@ nav{
     .perant {
       font-size:xx-small;
       padding: 0 10px;
-      margin-left: 82px;
+      margin-left: 545px;
       margin-top: 15px;
      color: brown;
       font-family: none;
