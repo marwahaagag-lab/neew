@@ -109,12 +109,12 @@ h3{
 
 /* Logo styling */
 .logo {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: bold;
   font-style: italic;
   font-family: serif;
-  margin-top: -38px;
-  margin-left: -30px;
+  margin-top: -14px;
+  margin-left: 1px;
   color: white;
 }
 /* Navigation list styling */
@@ -126,13 +126,13 @@ h3{
   padding: 0;
   color: white;
 }
-nav{
- 
-  margin-left: 229PX;
-  margin-top: -60px;
+nav{    
+  margin-left: 221PX;
+  margin-top: -34px;
   font-size: xx-small;
   color: white;
 }
+
 
 @media screen and (max-width: 600px) {
     nav ul {
